@@ -15,7 +15,7 @@ Esse foi meu primeiro projeto em que utilizei a biblioteca jest para manipular t
 
 ### Caso queira testar o projeto
 
-1. Rode no seu terminal o comando <code>git clone git@github.com:lucasquearis/project-trybe-wallet.git</code>
+1. Rode no seu terminal o comando <code>git clone git@github.com:lucasquearis/project-js-unit-tests.git</code>
 3. Espere o código ser todo baixado
 2. Rode o comando <code> npm install</code> para instalar todas as dependências
 4. Teste cada uma das funções com o código + nome arquivo Ex: <code>npm test tests/average.spec.js</code>
