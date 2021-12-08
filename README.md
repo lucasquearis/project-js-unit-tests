@@ -11,7 +11,7 @@ Esse foi meu primeiro projeto em que utilizei a biblioteca jest para manipular t
 - Manipulação de Objetos
 - NodeJS Assert
 
-[Readme Original requisitos do projeto]()
+[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-js-unit-tests/blob/master/readmeOriginalProject.md)
 
 ### Caso queira testar o projeto
 
